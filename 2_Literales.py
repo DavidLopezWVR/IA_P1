@@ -1,5 +1,5 @@
 '''
-Los datos en si mismo.
+Literales.
 Un literal se refiere a datos cuyos valores están determinados por el literal mismo.
 +===================================+
 |      10, 3.14, "Hola", True       |

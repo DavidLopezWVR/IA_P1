@@ -1,4 +1,5 @@
 '''
+Operadores.
 Un operador es un símbolo del lenguaje de programación, el cual es capaz de realizar operaciones con los valores.
 +=====+
 |     |
@@ -70,7 +71,7 @@ LISTA DE PRIORIDADES (de la más alta (1) a la más baja (4) prioridad.)
 |  1  |  **                                                    |
 |_____|________________________________________________________|
 |  2  |  +,- (Los operadores unarios a la derecha del operador |
-|     |       expenecial enlazan con mayor fuerza.)            |
+|     |       exponencial enlazan con mayor fuerza.)           |
 |_____|________________________________________________________|
 |  3  |  *,/,//,%                                              |
 |_____|________________________________________________________|
