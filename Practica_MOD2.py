@@ -1,6 +1,6 @@
 #Practica de Módulo 2
 #Estes programa nos ayudara con un tema importante en el analisis de vibraciones mecanicas que es determinar la Rigidez Equivalente (Ke) de algunos sistemas.
-#El sistema que anlizaremos es la de una Viga simplemente apoyada, enunidades de el Sisitema Internacional (metro,Kilogramo,segundo).
+#El sistema que analizaremos es la de una Viga simplemente apoyada, en unidades de el Sisitema Internacional (metro,Kilogramo,segundo).
 
 print("""
 Viga Simplemente Apoyada
@@ -43,5 +43,5 @@ altura = float(input("Ingrese la altura del rectangulo [m], 'h':\n"))
 Ix = (largo*altura**3)/ 12
 print("La Inercia de area de la viga es de:" + str(Ix) + "m^4", end="\n" )
 kequi = (3 * modulo * Ix * (distancia_A + distancia_B))/(distancia_A**2*distancia_B**2)
-print("\nLa Rigidez equivalente del sistema es de: " , kequi, "N/m")
+print("\nLa Rigidez equivalente del sistema es de: " , kequi, " N/m")
 
